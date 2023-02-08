@@ -1,0 +1,4 @@
+Number of verified lines: 249470
+Number of verified words: 47972717
+Number of unverified lines: 2885116
+Number of unverified words: 507353799
