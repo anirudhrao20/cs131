@@ -4,7 +4,6 @@
     4  grep -E "\s+[NY]\s+[Y]" amazon_reviews_us_Books_v1_02.tsv 
     5  grep -E "\s+[NY]\s+[N]" amazon_reviews_us_Books_v1_02.tsv 
     6  grep -E "\s+[NY]\s+[Y]" amazon_reviews_us_Books_v1_02.tsv | wc -l
-    7  grep -E "\s+[NY]\s+[Y]" amazon_reviews_us_Books_v1_02.tsv | wc -l wc -w
     8  grep -E "\s+[NY]\s+[Y]" amazon_reviews_us_Books_v1_02.tsv | wc -w
     9  grep -E "\s+[NY]\s+[N]" amazon_reviews_us_Books_v1_02.tsv | wc -l
    10  grep -E "\s+[NY]\s+[N]" amazon_reviews_us_Books_v1_02.tsv | wc -w
