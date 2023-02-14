@@ -1,0 +1,9 @@
+    1  wget https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+    2  gunzip amazon_reviews_us_Books_v1_02.tsv.gz
+    3  cut -f2 amazon_reviews_us_Books_v1_02.tsv > part1.txt
+    4  sort -n part1.txt | uniq -c | sort -nr | head -3 > ws3.txt
+    5  nano ws3.txt
+    6  cut -f4 amazon_reviews_us_Books_v1_02.tsv > part2.txt
+    7  sort -n part2.txt | uniq -c | sort -nr | head -3 >> ws3.txt
+    8  nano ws3.txt
+    9  history > cmds.log
