@@ -1,0 +1,7 @@
+    1  mkdir CUSTOMERS
+    2  mkdir PRODUCTS
+    3  awk -F'\t' '$2=="12079497" {print $9}' amazon_reviews_us_Books_v1_02.tsv > CUSTOMERS/12079497.txt
+    4  awk -F'\t' '$4=="743470117" {print $9}' amazon_reviews_us_Books_v1_02.tsv > PRODUCTS/743470117.txt
+    5  awk '{sum+= $1} END {print sum / NR}' CUSTOMERS/12079497.txt | bc -l
+    6  awk '{sum+= $1} END {print sum / NR}' PRODUCTS/743470117.txt | bc -l
+    7  history > cmds.log
