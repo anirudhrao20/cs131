@@ -1,0 +1,26 @@
+
+    1  mkdir a1
+    2  cd a1
+    3  echo $HOME
+    4  id
+    5  mkdir temp
+    6  chmod u-x temp
+    7  mkdir temp2
+    8  mv temp2 temp3
+    9  cp -r temp2 temp4
+   10  ls /proc | grep mem
+   11  ls /proc/ | grep cpu
+   12  head /proc/meminfo
+   13  head /proc/cpuinfo
+   14  tail /proc/cpuinfo
+   15  cat /proc/cpuinfo
+   16  cp /home/test/A1/downloaded_hashtags_extend.csv ~/a1/
+   17  du -h downloaded_hashtags_extend.csv
+   18  grep -i 'great' downloaded_hashtags_extend.csv | wc -l
+   19  file downloaded_hashtags_extend.csv
+   20  iconv -f UTF-8 -t ASCII//TRANSLIT downloaded_hashtags_extend.csv > hashtags_ascii.csv
+   21  head -n 1 hashtags_ascii.csv
+   22  cut -d ',' -f 1 hashtags_ascii.csv | sort | uniq | wc -l
+   23  cut -d ',' -f 8 hashtags_ascii.csv | sort | uniq | wc -l
+   24  cut -d ',' -f 2 hashtags_ascii.csv | sort | uniq | wc -l
+   25  history > cmds.log
