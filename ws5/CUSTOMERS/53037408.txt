@@ -1,0 +1,619 @@
+For new *and* seasoned PMs
+Use Excel (or PowerPoint)? Read this book
+Important addition to the ITIL body of knowledge
+Source for EAs in CIM verticals
+Apt title - excellent intro
+Valuable tools
+Most complete RBAC reference
+Solid multi-audience resource, some gaps
+Landmark book for Oracle shops
+Authoritative and essential
+Layered approach to multi-level security
+Valuable compendium
+Wide scope and deep content
+Readable and informative starting point
+Steps through the basics
+Comprehensive and clear
+Excellent orientation for new test professionals
+Exhaustive look at proven methods
+Second Ed. even better!
+Reconciles Relational and OO DB
+Still valid, still useful
+Solid introductory text
+Exceptional resource
+Good introduction to techniques and concepts
+Thorough and on target
+Major Rewrite for 2nd ed.
+Not a primary resource
+Advanced combination of concept and pragmatic
+Worth reading and heeding
+Unique and invaluable
+Flexible approach to enterprise architecture
+Needed for ITIL implementation &amp; exams
+Pragmatic and filled with ideas
+Complete, wide in scope and essential
+Straightforward &amp; basic
+Balanced, agenda-free &amp; realistic
+All you need to implement ITIL
+ITIL-specific approach
+Essential Sanity Check
+Good first book for new testers
+Virtually timeless
+Weakest of ITIL series
+Encyclopedia + cookbook
+PDM-centric approach
+Remarkable advice and approach
+Surprisingly relevant
+Can be safely ignored
+Generic guidelines supporting ITIL
+Excellent introduction to QFD
+One of the most comprehensive QFD books
+Official guide to 6 key ITIL processes
+Unintended benefits
+Best of official ITIL guides
+Leads through a legal minefield
+A building block itself
+Insightful and influential
+Little known gem
+Interesting and workable approach
+Complete and valuable PM resource
+Concepts &amp; Practical Programming
+Extends ideas from author's earlier book
+Primer on the basics - focus on concepts
+Advanced text, introduces TMM concept
+Cuts to the chase - practical approach
+Evolution and refinement of earlier work
+Comprehensive and supported by data
+Excellent approach that will work
+Take the title literally
+Still valid and applicable, with some gaps
+Superb resource + tool
+Not just for Agile Development
+Superseded by a better second edition
+One of the top books on the subject
+Excellent material for CSQEs (and candidates), and QA pros
+Excellent introduction
+For mature organizations
+Rich compendium with wide scope
+Follow the path to success
+Excellent book, somewhat misleading title
+Refreshing book on overhyped subject
+Practical, real-world advice from an expert
+Solid path through a political minefield
+Superb compilation of knowledge &amp; experience
+Fills in blanks left by CObIT
+Unique perspective aimed at product line testing
+Outstanding resource for Mfg. PDM
+Fills an important niche for SCM discipline
+Major rewrite of the best web testing book
+Realistic and practical. Right amount of info
+Idea sourcebook
+Solid, to-the-point primer on SCM
+Convergence of two critical success factors
+One of the best in my personal reference library
+Wealth of knowledge in advanced techniques
+Keys to teamwork and collaboration
+Adds the auditing dimension to web testing
+Basic, but with sound approach
+A wonderful, friendly &quot;How-to&quot; for new web developers
+Essential SCM resource for all experience levels
+Unique - and a fun read
+Wide contemporary application
+Complete survey of approaches for all SDLCs
+Takes intermediate developers to the next level
+Page turner tech book?  You bet!
+Somewhat out-of-date but still valuable
+Much needed convergence of disciplines
+Pragmatic addition to body of knowledge
+High-level &amp; contextual w/multi audiences
+Packed with wisdom and answers
+Clear, straightforward and on the mark!
+Substantially valuable with some gaps
+Interesting approach for advanced practitioners
+Effective and proven method
+Superb resource for small/medium business sites
+Brief-but complete-description of MOF essentials
+Info &amp; approach have wide application
+Process-oriented approach suitable as corp guide
+The authors &quot;get it&quot;
+An IT view of a remarkable book
+Excellent secondary text on architecture
+Solid college text + real world reference
+Excellent book; approach Zachman Framework w/caution
+Provides tools/techniques to assess SPI value
+Augments official docs &amp; adds realistic approach
+Interesting integration of two major quality frameworks
+More convenient &amp; easier to use than official docs
+Raises the bar in business case development
+Complete, consistent with SEI &amp; realistic
+Unexpected gem - read before leaping!
+Unique and on the mark
+Merges tools &amp; process + sound SLM practices
+A significant contribution to the software QA profession
+May be the only book on the topic; also applies to web svcs.
+Book that spawned a core business approach
+Focused info for developers more than security pros
+Amazing general resource despite vendor-centric approach
+Gems among the archaic - worth reading
+Practical and rich with information on the subject
+Excellent compendium - some material outdated
+For advanced practitioners only - not a 'how to' book
+Clearly explained management overview
+Best book on SCM (and CM) I own
+High-level with strategic, proactive goals
+Section Two is reason to buy this book
+Major facelift to earlier book - worth looking at
+One of the best books on the subject!
+Much needed book for Development and Service orgs
+Don't  design (or update) your web site without this book
+Essential resource for help desk managers (and consultants)
+Practical aspects of business rules
+Excellent continuation or Whittaker's earlier book
+Time-saver and augments &quot;The Help Desk Audit&quot; book
+A primary resource from one of the industry experts
+Ahead of its time - especially relevant today
+Essential reading for developers and QA pros
+Effective as individual resource or training tool
+Workable approach to IT value delivery &amp; packed with info
+A breath of fresh air
+Focus is public sector - strong on policies &amp; compliance
+Innovative thinking backed up with a coherent approach
+Excellent resource - but use with caution
+Excellent PRINCE2 learning resource
+Excellent advice with a wider audience than QA
+Resource and guidelines with a coherent approach
+A simple-but-handy tools for web developers
+Practical, realistic and valuable
+Lives up to its title
+Practical information for designers and implementors
+Filled with insights and excellent advice
+Simple, but not simplistic - essential for all IT pros
+Outstanding introductory book to a complex topic
+Adds depth to FMEA and FMECA
+Focused on the essentials
+A lot of in info in a pamphlet
+More than how to write online text!
+Title perfectly describes this book
+Preventative measures + Fraud Basics
+Workflow design with a twist
+Seamless blend of traditional (GAAP) and TOC
+Covers fundamentals and professional standards
+Important addition to any network library
+Disappointing
+Simply astonishing in scope and depth
+Essential for SLM Practitioners
+Still Relevant
+Thorough and clearly written Book &amp; CD
+There are lessons here ...
+A landmark book for IT service support and delivery
+Read this book twice and revisit it often
+A decade old, but remains a definitive work
+Should be an establish standard for documenting
+Exhaustively researched and clearly presented material
+Well written and [manufacturing] business focused
+Excellent resource for process &amp; organizational aspects
+Thorough, answers tough questions and provides insights
+Finally!  Updated processes aligned to modern environments
+Work of a dream team
+In-depth with multiple audiences
+Solid
+Filled with effective techniques
+Excellent treatment of essential core processes
+Best suited to internal IT/IS - technology section is weak
+Much needed book for the SW engineering community
+Well written &amp; business-focused
+Important resource for workflow & process practitioners
+Big Picture - a little short on depth, but valuable
+Invaluable source of knowledge - excellent approach
+Mythical Man Month Revisited
+Still quite valid in all respects (unfortunately)
+Amazingly complete implementation guide
+Proven approach and a detailed roadmap
+Packed with information for a wide range of readers
+Terse ... complete ... handy - don't write SQR without it
+Provides a blueprint and a compass
+Blend of business and technical with more focus on technical
+Detailed, straightforward roadmap to success
+Balanced for for business and technical readers
+*The* standard reference on SQR
+About *project*, not *program* management offices
+Engrossing, thorough and full of surprises
+Finally! A design book for the rest of us
+Best fit to DoD contracting and product development
+Especially valuable to PMPs and orgs using PMBOK
+Realistic college text; useful to working professionals
+Amazingly effective for quickly learning Oracle 9i
+A basic, but effective, approach to test management
+Holistic view of SW quality from the project perspective
+Guidebook for PMI members and those considering membership
+Valuable to consultants and for SQA libraries
+Valuable consultant &amp; SQA library resource
+Highly valuable to a specific audience
+One of the top books on project estimating I've read
+Out of date, but still useful; Excellent Bea Tuxedo Material
+One of the best books about IT project risk management
+Lynchpin of SEI's architecture and product-line material
+Well researched, written and presented case studies
+For practitioners, not managers ... gore some sacred cows
+Covers a topic about which few books exist - excellent!
+Excellent introductory book on FP
+If you use @Risk and need to learn RA basics ...
+Excellent College Text & Useful for Working Professionals
+Refreshingly practical and achievable approach
+Seamless coverage of two technical domains
+Narrow focus, brief and effective for its stated purpose
+Exceptionally well thought out and written
+Unique blend of art and technical topics
+Well designed course material - full coverage of key topics
+Intermediate-level in detail, up-to-date
+Perfect for developing in-house training of non-technical students
+Invaluable to a narrow audience
+Greatly exceeded my expectations
+Realistic, Complete and Well Written
+Some excelllent, but obfuscated ideas
+Thought-provoking and eclectic
+Inportant guidance for SW professionals
+Lives up to its title - best practices and sound approach
+Impressive and answers key questions
+Interesting, highly readable and practical
+Excellent collection of (IT) Project Management papers
+Excellent for experienced developers
+Perfect for the right audience
+Complete coverage of all of the important elements of SQA
+A &quot;must read&quot; for marketing and CRM professionals
+Quick start for JAX in JWSDP environments
+Solid intro to an exciting technology
+Excellent book about the overlooked part of development
+Proviides a roadmap to technical workforce management
+Brief tutorial for business users and IT product eval
+Clearly explains a powerful Acrobat feature
+Complete, comprehensive concordance of macros
+Vendor-independent and full of valuable code &amp; ideas
+Secondary source for Requirements Analysts - innovative
+Excellent overview of a complex product
+For advanced organizations and practitioners
+Detailed intro to SEI's CERT/CC OCTAVE method
+A treasure for technical and functional users
+Excellent intro to and details of a powerful language
+Best practices in customer-focused IT management
+Not written as an exam guide &amp; is Vol 1 of 3 volumes
+CD ROM version significantly different from paper version
+Interesting approach to knowledge management
+One of the best books for the new project manager
+Showing its age, but still has a lot to offer
+An exceptionally effective and flexible approach to SPI
+Practical techniques wrapped in a defined process
+Excellent performance &amp;n capacity approach for app layer
+Advice about refining and structuring PM
+Clearly written, vendor-neutral intro (a bit out of date)
+Complete coverage of tuning for new &amp; experienced DBAs
+Keys to understanding ERP
+Covers all IS Security Critical Success Factors
+Clearly written, understandable intro to a complex subject
+Unique collection of contextual and practical info
+Focused on techniques and on doing them right
+Up-to-date ... sends an old friend into semi-retirement
+Comprehensive, thorough and unique
+Brings best practices to small companies
+Clear and in-depth description of ebXLM (and XML)
+Applicable to more than auditors & compliance professionals
+Old friend gets facelift and becomes more beautiful
+Excellent learning tool
+Useful to me at the time
+First mainstream book on the subject and still important
+Even if you know the material you'll probably love it
+Decisions ... decisions ...
+A wealth of vaulable material packed into a 252 page book
+Focused on the topic and practical - highly recommended
+Complete focus on what's important: processes and management
+Well written and informative introduction to SSM
+Old, but contains unique information that's still valid
+Slight vendor bias - excellent info + W3C spec coverage
+The best book for org change &amp; reengineering projects
+Anthology of articles on QA in rapid deployment environments
+Wonderful intro to SPC and excellent training tool
+Contains valuable info for HW/SW integration
+Real world issues and solutions - excellent book!
+Excellent book for CMM level 5 and 6-Sigma organizations
+Mining for gold
+Clearly written tutorial and fact book on SW metrics
+The basics and the essentials - great collection of articles
+Aging gracefully with lots of life left - not for SW testing
+High-level, but covers the important points
+Specialized collection of papers for specialized audience
+Complete reference for experienced developers
+Tired of RPG/400, JCL and the like?  Here's a ticket out
+Unique approach that turns theory into practical solutions
+Best intro for the new DBA - will get you quickly started
+Compendium of articles for SPI &amp; SPA practitioners
+Links strategy to policies &amp; procedures + best practices
+Value package of three excellent books
+Comprehensive and covers a waide array of topics
+Clear roadmap to levels 2 and 3
+College text that is based on the realities of e-commerce
+5th book on the topic by Humphrey - aimed at business execs
+Thorough reference for developers and architects
+Highly refined approach to attaining IT Ops capability
+Informative and coherent collection of papers
+Finally!
+About defining and integrating PM processes - not about PM
+No fluff - provides a clear roadmap to implementing change
+Best used as a course book
+SOlid desk reference that is up-to-date as of 6/18/02
+Effective techniques and easy reading
+Practical and informative
+For experienced business modelers - short on technques
+Excellent business and technical overviews of ERP
+Technology oriented collection of essays
+Highly focused and essential for any ERP analyst/developer
+Mature Organizational Change Ideas and Practices
+Superb book for PM processes and PMO
+Covers major vendor offerings and middleware in general
+Serendipity
+Seminal book that is still up-to-date
+Wide survey of data mining and data warehousing issues
+Superb &amp; filled with useful and practical info
+Still valid despite age and necessary foundation material
+Closes gaps in the Unified Process (or any other SDLC)
+Definitive reference and unique source of information
+Practical and solid approach to selecting software
+Excellent book with wider appeal than just intended audience
+Useful as a secondary resource to the right audience
+A primary text on CBSW with unique features
+A gem for the right audience
+Excellent refresher and reference for working professionals
+Finally - a book on risk management that's fun to read
+Modern lessons in integrity and ethics
+Solid introduction to the technology and how to employ it
+Wealth of information on an important topic
+Complete, practical and proven approach to testing
+A gem with a high ROI
+More serious than the title implies - excellent book
+Excellent ILS reference, with potential commercial uses
+Seamless integration of development and project activities
+Finally in English!
+For mature, stable test organizations
+Remains one of the best
+Raises the bar for SW testing books
+Among the most influential books I've read
+Essential for PMOs and mature project organizations
+Invaluable and essential for developers and buyers
+Applies to all businesses, but especially consultants
+Important if you publish on paper or run a web site
+Unique, practical and excellent for PMOs
+Outstanding collection of advanced technqiues
+First step in due diligence and protecting your work
+Definitive work
+Formal approach to system and business event mgmt
+Sound investment for the right audience
+College text that is valuable to working professionals
+For experienced practitioners - not an introductory book
+Essential Resource
+Practical insteal of theoretical
+High value resource
+Elegant, Effective and Powerful
+Short, focused and filled with useful information
+A major key to ISO 9001:2000 certification
+Lays the foundation
+Fast-paced, focused and fluff-free
+Synthesizes PD, RD and JAD
+Lives up to its title!
+Solid, readable and covers topics not found elsewhere
+Goes well beyond software estimating
+Wealth of details &amp; cogent approach wrapped in a case study
+Guns don't kill - criminals do
+Real advice for real life issues
+Yin to Mythical Man Month's Yan
+Perfect balance of technical &amp; business + sage advice
+Fast start to using the power of SureTrak
+Masterful writing and in-depth treatment of the subject
+Worth it's weight in gold to right readers
+Thorough and suitable for the experienced professional
+Excellent introduction to the basics
+Essential reading for practicing SW architects
+Fastest way to become productive with P3
+Refreshingly unbiased and gives complete picture
+Sophisticated methods and countermeasures
+Exposes top problems and gives a framework for closing them
+Depth and architecture clearly presented
+Deep insights into marketing in- and outside of mobile I-net
+Balanced and business-focused
+Refreshing change from the quantitative and methodological
+Outstanding Primer for Measurement and excellent approach
+Wonderful blend of business and technical information
+Best introductory text on the subject
+Best from among 2 dozen I've read on the subject
+Reflects best practices in a narrow discipline
+For experienced practitioners and implementors
+Viable process that does not compromise quality
+Off-the-shelf processes for CMMM level 3 and above orgs
+Complete coverage of critical processes
+Only customer-centric guide I've found
+Outstanding reference - comprehensive and complete
+Clear roadmap out of the quagmire
+Excellent introductory book on the subject
+Essential for TQM, ISO 9000 and GMP organizations
+For the occasional PM with ideas for the pro
+For the occasional PM with ideas for the pro
+Not a How-to-Code Book
+For the RUP diehard or organizational champion
+Essential for SQA and SPI professionals
+Collected gems from body of knowledge
+Addresses a narrow topic. Worthwhile to right audience
+Must reading for OO architects
+Adds Structure, Clarity and Effectiveness
+Excellent treatment of a very important topic
+Out-of-date; useful in areas for non-ISO 9001 shops
+Covers all of the major issues and factors
+Somewhat dated, but mostly valid collection of papers
+Excellent for &quot;whitebox&quot; reuse
+Interesting combination of blue sky and practical
+Essential for portal architects
+Wide range of topics - does not go very deep in any
+Solid foundation. Strong on Business case and PM
+Due diligence if you're evaluating ERP systems
+Sound principles, successful approach and common sense
+Essential for health care IT staff and consultants
+Uniquely valuable - fills two gaps
+Valuable checklists and procedures
+Streamlined version of HIPAA@IT Reference
+Highly technical description of all major facets of 3G
+A great starting point
+Solid foundation material
+Valuable to a narrow audience
+Metrics and models - No nonsense or hype
+Highly academic with useful information
+Refreshing, Business-focused and Candid
+A thorough introduction to a complex discipline
+Rich resource for experienced strategic planners
+Heavy on process and insight; light on technique
+Something for everyone in Ops/Infrastructure
+For the right audience worth its weight in gold
+Unique perspectives on software engineering risks
+Legal and strategic advice that is invaluable
+A definitive reference on the subject
+Powerful Tool for Strategic Planning
+Invaluable collection of business tools
+Quantitative approach to process selection
+Blends theory and real-world - thorough and easy to read
+Not only for journalists!
+Long overdue - excellent resource
+An invaluable resource
+Poorly edited but lives up to title
+A seminal work for the right audience
+Extraordinary book/Extraordinary Approach
+High level, some weaknesses
+Foundation Material for Network Threat and Exposure Analysis
+Thorough, clearly written and still up-to-date
+Applies to any enterprise-critical application
+Addresses business and technology issues - RECOMMENDED!
+Unique survey of international trends
+Valuable information for interoperable network management
+Compelling reasons to read this book ...
+Has potential to be great - lacks coherency &amp; focus
+Business case development done right - highly recommended!
+Comprehensive, fresh and, yes, exciting
+Clear explanation of an important telecom quality standard
+A great introduction to SPICE - includes valuable tools
+Unique, effective approach to risk management
+Excellent way to learn Excel charting and SPC
+Often overlooked part of process design &amp; cost control
+Advanced techniques for PMs
+Surprisingly informative on broader SCM aspects
+Great introductory text!
+A Security Officer's Dream Come True
+Good for small company LANs and desktop support pros
+Coherent integration of system and software engineering
+Succinct description of the CMMI's current state
+Focused, no nonsense approach
+Recommended for CMM-SW, not a book for exploring benefits
+Network Design Done Right
+Focused on a single topic and covers it exceptionally well
+Surprisingly Readable and vendor-neutral
+Most complete book on web testing - best-of-breed
+An old friend that has aged gracefully
+About overcoming politics and human nature - great advice
+Overwhelming amount of information &amp; essential for 24x7
+Use cases done right - sensible and effective approach
+Clearly information collected into one handy reference
+Showing its age, but still an excellent learning tool
+Necessary for CMM 4 &amp; 5, excellent general approach
+SOme excellent practices for PMPs and PMO organizations
+Applicable to PRINCE 2 and fills gaps in the PMBOK
+Essential for PRINCE 2 cert - should be read by PMPs too!
+Still valid even with the 2000 edition available
+Invaluable for setting up a Test/QA organization
+Refreshingly honest, thorough and well written
+Essential for PMP candidates
+A definitive work that covers process &amp; procedures
+Invaluable checklists and straightforward approach
+Concise, pragmatic and filled with advice
+Wide survey of business and technical aspects - well written
+Among the best on the subject
+Practice and theory compared and contrasted
+Avoid!  The worst book I have read in years.
+Complete, pragmatic and a top reference for architects
+Systems Engineering Approach to CM
+Leads the way towards effective service delivery
+Pragmatic &amp; emphasizes quality and leadership
+Basic business strategy with some interesting nuances
+Gold mine of SQA and reliability ideas and techniques
+For advanced SQA pros and academics
+Top-notch addition to RM body of knowledge
+Clearly written book on underlying technologies for VPNs
+One of the most important books on EAI published this year
+Simply the best and worth the effort to track down
+Lives up to its title!  Exceptionally valuable
+One of the most complete and sensible guides I've read
+Strong project approach, some gaps - overall: valuable
+Takes software reliability from theory to practical process
+Incredible resource, amazing value and unique approach
+Essential book for user acceptance testing &amp; contract mgt.
+Will jumpstart your project and save significant time
+Addresses challenges, raises awareness &amp; gives case studies
+Sound approach - ATAM proponents will like this book!
+Provides essential knowledge to e-commerce security pros
+Unique and focused on an often overlooked subject
+Valuable if you have done this before, not for beginner
+Unique book that fills a gap in service delivery literature
+Shows service companies how to attain world-class status
+Great collection of best practices (has one glaring gap)
+A solid approach to identifying and analyzing problems
+Updates the craft
+Completely changed my way of thinking
+A great overview of a true software engineering approach
+A great complementary reference for XP - also CMM L-4 &amp; 5
+Thorough, wide and deep coverage of O-O testing
+Focused, clear and full of great information
+A true classic and the best SQA book for serious SQA pros
+Valuable source of info on a wide range of topics
+The only approach I trust
+An approach that goes to the essence of proactive security
+Thorough, full of sound advice and strategy
+Great summary of a complex subject - brief and complete
+Levels the sales cycle playing field
+Cuts down on time to produce an effective e-policy
+One-of-a-kind book on an important process
+Despite some shortcomings it's &quot;must reading&quot;
+Takes PMs to the next step in their professional development
+Excellent Description and Great for CFP Candidates
+The only effective approach I have come across
+A classic that will be around a decade from now
+Best intro book on dir services - Needs a major update
+Good coverages of basics - for managers and non DBAs
+Unique book about a powerful project management tool
+Excellent for HIPAA and e-commerce security - top writing
+Business focus, brief and filled with points to ponder
+Complete, industry neutral and unbiased - Recommended!
+An important and unique work
+Business-Focused and pragmatic - highly recommended
+Essential for 24x7 infrastructure strategies
+Simply great - lays the foundation for performance
+Key to successful integration projects &amp; CMMI
+Makes SPC easy and accessible to anyone
+An important work - also of interest to security pros
+The definitive book on software testing
+Not only for call centers - IT help desks need this too!
+Great approach to design, development &amp; implementation
+A real gem with a misleading title
+Disappointing for testing pros - OK for managers &amp; PMs
+A rare book that fully serves beginners &amp; expreienced pros
+Comprehensive, complete and invaluable
+A disappointing book from a favorite author
+Too basic for the SQA practitioner, but ...
+Keep going back to this book ... keep getting more from it
+Another building block in the Enterprise Computing Series
+Update 3 1/2 Years Later
+Flawed, but some excellent concepts make it worthwhile
+Shallow, disappointing and frustrating
+The only holistic view of digital security in print
+Pearls of Wisdom, Sage Advice and Doses of Reality
+Consultant's best friend
+Solid foundation
+PM's Best Friend
+Should be on the bookshelf of every PM &amp; aspiring PM
+The best foundation for process improvement
+&quot;Must-reading&quot; for IT pros and consultants!
+Must have for all consultants!
+Superficial
+Treasure trove of information and formulae

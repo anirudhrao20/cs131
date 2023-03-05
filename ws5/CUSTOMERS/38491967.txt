@@ -1,0 +1,1336 @@
+many common sense guidelines
+advanced discussion
+massively comprehensive- for DBAs and developers
+solid discussion of customising Internet Explorer
+covers the main ideas, with little maths needed
+unsatisfying collection of anecdotes
+your PC as a media centre
+good exam prep
+the DVD's data is crucial for you to tackle
+inspiring narrative
+updated undergraduate text
+good analysis of Oracle optimisation issues
+global overview
+perhaps chapters 7 and 8 are the most useful?
+lacks exercises
+introduces many topics to newcomers to the Web
+the first and only book on its topic
+balanced treatment of RFID's prospects
+doesn't give much coverage of Web Services
+RDF and OWL - are they enough?
+goes deeper than most CS courses
+quite different from doing HTML
+intriguing challenges
+easily use parameters
+erudite tromp
+references to MSDOS are long in the tooth
+quite a contrast to an auction site like eBay
+for new programmers
+compatible cultures
+quickly learn Java?
+advanced coverage
+need to already know Perl, but not XML
+teaches highly value added skills
+simple usage
+broad scope across all of IT
+elegant MVC instantiation
+do you want to hire the best?
+counteracts a lot of hype
+strong new Maths functions
+not difficult at all
+teaches good teamwork skills
+introduces the field
+state of the art rendering
+excellent coverage of crypto!
+perhaps the book could be longer?
+you can read for sociology or business
+Turing died too soon
+good coverage with design and code
+practical, non-high tech steps
+raises early questions in this field
+take a look at the internationalisation classes
+need some undergrad physics and maths background
+up to date survey of malware
+always test your changes
+Why C?
+a backbone of the Internet
+a longer discussion of Trojans would have been nice
+do you remember these?
+try the puzzles
+excellent chapter about documents with links
+facile and inadequate
+clear language and objective assessments
+for the artistically inclined
+directed towards supervisors
+look at the Transitions palette
+tempting combination
+conveys the rudiments to a reader with short attention span
+how to reduce turnover?
+easier to understand than the official USB documentation
+a vanished Silicon Valley
+a long overdue book
+no mention of Shockley?!
+teaches the gist, as early as possible
+a walk on the wild side
+solid maths treatment of problems
+a lot of travelling
+awesome corruption
+issues are still being played out
+a serious and critical analysis
+it soon palls
+more enduring troubles?
+successful transition
+difficult choices for conversion
+where are we going?
+don't worry about the different versions of RSS and Atom
+nice analysis of travel websites
+2 billion more urban dwellers by 2030?!
+educates a general audience
+gives good grounding in assembly ideas
+PHP + MySQL => PostNuke
+timeless advice
+quick introduction to personal computers
+the very latest version
+nice discussion of globalisation
+memories come back
+not a simple book
+many different careers are possible
+good help for the test
+learn the basics
+presents a global view of change
+vendor-neutral analysis
+adds depth to mere game playing
+clear instructions
+check out YaST
+more than a toy; is it a tool?
+overpriced
+no future killer app [perhaps]
+powerful diagnostic tool
+industry has no technical answer
+well suited for a beginner
+good graduate level text
+combine business needs and GIS capabilities
+lucid non-technical explanations
+read the free report from 2000 instead of getting the book
+world renowned author
+a late release
+compare US and India - interesting
+easy and powerful usages
+it should be simple
+new form of education?
+easy introduction to computer usage
+easy to extend, but it can be dangerous
+learn about SQL and designing relational databases
+So who exactly will use this book?
+make an overall plan first
+essentially an illustrated guide
+the virtues of the command line
+interoperable with Microsoft Office
+great value at $20 compared to most other texts
+look forward to a third edition
+studies Latin American democracies
+Linspire is a valid choice of linux
+good summaries of many key events and trends
+brief and well written
+good examples of unorthodox trailblazers
+limited inter-country comparisons
+very readable; the narrative flows gracefully
+comprehensive coverage of SOA
+comprehensive account, with original source documents
+different approaches that did reasonably well
+a distinguished Canadian woman
+how accurate were the book's authors?
+good combination of technology and industry
+great tools explanations
+has a bootable linux CD
+don't chase the algorithm; but write eloquent web pages
+typical CRC comprehensiveness
+easy and cheap way to do analysis
+many solutions for common problems
+the basics of web pages
+Layers are the key idea
+geography still important
+diverse applications
+quick study guide
+describes main, practical methods
+an independent big picture
+useful warnings
+future social impact?
+not just for the programmer
+source material for policy makers
+amusing anecdotes
+replaces 6 books
+get a more recent book
+from the graves of dead societies
+useful explanations
+for some calligraphers
+garbage
+check out the STL
+exciting speculations
+minimal change from 5th edition
+ingenious methods!
+very difficult problems
+eye opener for musicians
+a worthy update
+explains hardware and software to a general audience
+a website would be more useful
+do we still need librarians?
+perhaps more use of the author's background?
+a website would have been better
+unusual teaching of numerical analysis and symbolic algebra
+instant losses, not instant gratification
+are most of us pigeons?
+quick tour of the basics
+well suited for a classroom text
+easy instructions
+try some of these options?
+good guidelines to protect yourself
+should be a website
+whither the US market?
+goes far beyond simple searching
+meet some cryptographers
+much practical advice
+desolate playground?
+is it too good to be true?
+apropos approach
+the main uses of the Internet
+understandable to a new user
+perspective supplied
+a great timesaver
+perils of virtual teams
+see the Internet descriptions
+new clustering methods
+accurate and readable
+more about networking and applications
+work in progress
+changing modes of education
+increase your skill
+very promising advances
+common sense tips
+good summary of trends
+fighting malware
+dials down the hype
+sometimes look outside your company
+good comparative analysis vis-a-vis Microsoft
+well integrated language
+useful problems
+enough for your needs?
+very compatible fields
+for the next IPv6 Internet?
+a viable commercial technology
+needed in semiconductor modelling
+superb description of clusters
+drop an Appendix
+for users and sysadmins
+dealing with NP completeness
+the default daily guide
+computational quantum chemistry
+algorithms are primary, Java is secondary
+used in practical problems
+within Linux, the book doesn't take sides
+a Mac lifestyle
+securing your system
+excellent for a beginner
+develop/teach physical concepts
+amazing mechanical constraints
+a Prime Minister's thoughts
+how about an update?
+time for the 5th edition?
+excellent for cryptography
+check out the OpenOffice and Firefox applications
+try learning SWT and Eclipse
+nifty development environment
+a meta analysis
+quite relevant
+a historical survey
+starts with tangible topics
+up to date introduction
+adequate for a quick introduction
+still germane for an important family of chips
+large statistics packages
+operate on a global stage
+fast way to implement the algorithms
+for physicists outside particle physics
+clear descriptions
+seems like early days for deployment?
+Perl is the most difficult part of the book
+all about sockets
+innovation cannot be commoditised
+not just for Fortran programmers
+why no photos ?
+concise examples across much of Swing
+good primer on VLSI
+definitive text on antivirus methods
+a nice look into medieval Germany
+superb update of the first edition
+relevant to today's Europe
+influential women
+useful; but ignore its remarks on XP
+broader scope than designing a website
+Amazon is a good example of the book's points
+not for a beginner
+learn what to avoid
+state of the art
+NetWare + linux
+no shortage of XML
+independent of Novell
+is that the author on the cover?
+good discussion of linux
+a lifestyle zeitgest
+a set of slides
+delicate work in Photoshop
+well integrated with MS Office
+don't use this to learn QM
+proved Einstein's PhD thesis
+mixing languages?
+irreverent
+concise analysis
+very tempting, but why not use Knoppix?
+good integration examples
+twists in diplomacy
+a primary text of 1920s Harlem
+no BPEL?
+easy to implement
+why install SP2?
+old and new material [especially on qubits]
+excellent graduate text
+bulking up
+good higher level views of WS
+incisive deconstruction
+where is 10g?
+cheap clusters
+simple physics
+good for an exam, but not necessarily for a first encounter
+shows limitations of SQL implementations
+a reductionist scrutiny
+many detailed tasks
+A forward looking "history" book
+numerous improvements
+how to get good ideas?
+Reminds me of chess
+you need a background in SQL
+detailed comparisons
+deep integration of XML into ADO
+sweeping and up to date view
+quick learning
+for active programming
+very promising future
+challenging problems
+learn general SQL
+debugging hacks are the core of the book
+decent book, but miserable subject to code
+still have unsolved problems
+incredible excess
+still many choices
+rules are the core of Snort
+for new linux sysadmins
+for some [most?] gamers
+covers current ideas
+you need a background in computing
+reliable reference
+much easier than 3d
+up to and including BPEL
+good overview of the main issues
+topical
+very flexible linux
+no mention of IM, IRC, p2p, blogs, music or video
+innovative compilation
+many problems for the student
+vast potential
+straightforward talk
+an amazing boon for Australia
+web pages are sparse; barely worthwhile
+very technically accurate
+gives depth to the view of Los Alamos
+the main papers of 20th century physics
+accurate musings
+quick intro to wireless computing
+learn to make conceptual models
+review before compiling?!
+integrate various imaging packages
+more dangerous attacks
+long, real world example of using Iconix
+easy to understand
+increased govt regulation
+very comprehensive across operating systems
+fuel constrained flights
+perceptive cultural study
+long out of print
+a different take on Silicon Valley
+geared towards engineering students
+Short, easy lessons
+much misunderstanding
+not as abstract as a pure physics text
+much unknown
+takes you to the frontiers
+nice confirmation of General Relativity
+making real spreadsheets
+easy to understand and use algorithms
+simulations improve understanding
+emphasises software
+aimed at a hardware engineer
+careful explanation of wireless
+sloppy prose, blurry figures
+false positives and negatives are the problem
+should mention Knoppix
+exciting applications
+written when TQM was hot
+broad coverage of many topics
+look at the advanced features
+useful Merchant Services?
+easy to understand tips
+measure and countermeasure
+focus on VB to ADO to databases
+actually bang out HTML
+tight integration of book and website
+a grand sweep of major inventions
+puts rigour into nanotech
+Easy learning - declarative approach
+do your own searching
+competing with Web Services
+seems easy
+covers XML and Web Services
+Scholarly and sophisticated
+case studies are good expositions
+Cogent observations
+significantly extends capability of CVS
+Lookup - very wide scope of usages
+the basics of computing
+very different aliens
+learn Visual C++.NET ?
+Very useful CD with 10g
+independent vendor analysis
+distinctive comparison with COM+
+vastly improved implementation
+many supported formats
+Useful components for many ASP websites
+useful backup
+skilled director and fund raiser
+correlates modelling and observations
+A 3rd edition would be handy
+too short a discussion
+good arguments on both sides
+learn ArcView
+strives to be a definitive text on C++
+[Very] sharp elbows
+useful for any mobile development environment
+concise and terse
+70+ years of major research papers
+plain talking explanations
+how to protect an invention; not how to make one
+millennia of slow progress
+tackle the problems to learn OO
+continuous improvements
+hard science fiction
+for an experienced readership
+for simple circuits
+a towering figure in modern physics
+classic explanations of stars
+a unified framework for the phenomena
+looking for breakthroughs
+a natural way to learn OO programming
+understanding from the diagrams
+the rise of malware
+little remembered these days
+a credible open source implementation
+many topics covered
+a branch of applied maths
+needs a CD
+clear explanations
+an independent opinion
+coding to the most common platform
+good introductory discussion
+learn procedural and declarative languages
+subtle methods of composition
+best practices
+some annoyances are dangerous
+nice attention to details
+fundamental sources of noise
+hands-on experiments
+world class efforts
+try first implementing consistent metadata
+elegant overview
+immense desolation
+needs a new edition
+very little hype
+useless for computer career advice
+good choices
+Josephson wrote a chapter
+more proliferation?
+describes major VLSI ideas
+good coverage of BIST methods
+a more advanced discussion
+good explanations of how to sell
+valid uses for p2p
+interesting applications
+sophisticated maths treatment
+for users and designers
+use online sources instead?
+understanding modelling diagrams
+competing in a crowded market
+a different America
+a unified platform
+the spammer maggots are gorging
+teaches how to use, but look elsewhere for why
+useful setof essays
+examples from your field
+very good spam descriptions
+refined and competent
+good general coverage
+high tech hiking
+comprehensive and concise
+tales of the dark side
+a British experience
+good use cases
+best read in Spanish
+optimistic overview
+why you need editors
+an introductory text
+good help, but doesn't discuss alternatives
+tinker with hardware and software
+still relevant
+advances still continuing
+something that expresses the artist's creativity
+SOA = Interface
+a different perspective
+good descriptions of XML disadvantages
+DDoS is an unsolved problem
+many TiVo uses
+tedious, has big error
+read carefully
+2 key ideas in programming
+better communication
+the glories of the command line
+a trifle unsettling
+understandable to existing users
+refactor and test
+Numerous tips on direct command line usage
+lacks perceptive analysis
+No metric?!
+good at the high school level
+explains many hash algorithms
+understandable to a wide audience
+prolific problem sets
+extensive problem sets
+need strong maths background
+wide range of sysadmin tasks
+how to [mis-] use Google
+more advanced than its title suggests
+fundamental approach to the field
+understandable to most students
+not limited to Java programmers
+an informal tone for a broader audience
+strong coverage of numerical methods
+many original papers
+a full treatment of an e-commerce application
+digital designers can find useful problems
+important computer applications
+MHD, turbulence, boundary layers...
+useful revision of many numerical methods
+lasers for your skin
+for new DBAs
+massive long distance theory
+how about newer fortran versions ?
+slightly outdated
+a complete web development environment
+embed yourself in db2
+outdated software
+nice applications with heavy computations
+for a diverse audience
+learn programming with Maple?!
+Very polished edition
+learn SQL
+many concise tips on usage
+good examples of layout
+awkward
+spans much Java usage
+fast convergence for some problems
+for a digital lifestyle
+good focus on exam material
+short task descriptions
+easy migration from any Unix
+Pay heed
+easier than a book to some of you
+Extensive problems and answers
+THE equation formatter
+many ways to personalise the desktop
+Just get a general text on MS Office
+Flex your mind
+study the p2p issues
+More Phishing Analysis
+Gets you started
+Vivid descriptions
+Craves respectability
+Good introduction
+How well known is the company [the book's author]?
+Serious contents
+Gives you a less annoying XP
+Bootable linux
+An operator's manual for an auction or exchange
+Very hands on
+An objective metric of your knowledge
+for actual deployment of Web Services
+a massive overlayer
+nifty mobile computer
+a wetware book
+non-trivial programming
+for sysadmins and programmers
+for a digital lifestyle
+blacklist is the key idea
+A good start in expressing business logic
+For numerical methods & high performance computing
+a quick starter
+good for graphics designers
+has learning curve
+good historical perspective
+Improve your Mac usage
+Seize the day. Eat the jelly donut.
+Teller's inspiration to others
+Historic research
+a recap of modern physics
+look here first
+Random access tips
+think of SQL view
+different world views
+discusses antispam methods
+publish on the Internet
+good companion to a standard GoLive text
+All about email
+The other side of the fence
+Why a militia?
+avoid linux fragmentation
+serious XML usage
+just a few chapters are crucial
+good crypto explanations
+a humanising trend
+expounds well in several languages
+Takes the middle ground
+simple explanations of antispam
+very task-oriented focus
+competing with web containers
+Some padding
+minimise bandwidth
+nice VOIP and p2p explanations
+Tedious and meandering
+fills a gap in documentation
+No HTML? No HTML!
+better than X.400/500
+optimistic
+Look at the last chapter
+improve your MySQL usage
+Back to basics
+good discussion of crypto
+Lovely survey
+An introduction to Web Services
+A front end to the official documentation
+Good for beginners
+Appendix B has good comparative analysis
+Describes all the main platforms
+Check out the hyperlinking ability
+Cool mods
+Thriving bunch
+solid research
+No samizdat
+Very diverse
+struggled against discrimination
+wide range of hardware
+use at 2 levels
+Extensive discussion of spam filters
+Comprehensive
+Lacks problems for the reader to tackle
+Subtle, difficult and underappreciated ideas
+weak description of relational databases
+useful for material research
+An open sore on the rear end of the Internet
+Very extensive
+Make wikis and blogs
+simple
+many programmers are ignorant of this material
+bundles of hacks
+Cf. the advanced search options
+good vendor coverage
+accessible
+go further
+can be easily understood
+for a general readership
+Your expert knowledge is needed
+difficult path
+long out of print stories
+sadly lacking
+Incremental changes
+open source + Microsoft ?!
+Easily Assimilated
+nice sequel to Fowler's Refactoring
+alternatives to Microsoft
+Scads of example applications
+More rigour than most computer books
+covers graphics and hooking to databases
+stable and well tested version
+sysadmin tasks for you to do
+Cute
+shows advantages of Java 1.5
+many special effects
+free and almost as capable
+A case study
+learn Object Oriented Programming
+for an adult reader
+Thorough descriptions
+Independent recommendations
+good assemblage instructions
+starts from scratch
+Big improvements over Version 4
+Better than I expected
+specialised needs
+On a par with C++, Java and C#
+Improve your career skills
+poorly constructed
+you can write OO code in VB!
+keep your productivity if you migrate
+no Oracle lock in
+For experienced Microsoft users or sysadmins
+well integrated with Photoshop
+Most will only need a subset
+nice tips on browsers
+for browsers
+fine grained control
+pragmatic approach
+You don't need much maths or physics
+different experiences
+shows how to implement a framework for a web app
+Computational methods are new
+Take your time; as much as you need
+Some new material
+No buckyballs?!
+advanced reference manual
+shows how to use Web Services in Eclipse
+check out the OO material
+Lotus -&#62; WebSphere
+Possibly better than JSPs?
+skimpy
+extensive documentation
+See the chapter on camera phones
+An Encyclopedia for your PC
+Great for J2EE design
+Understand the idea of patterns
+Easy code examples
+Very do-able tasks
+check out ActionScript 2
+Transition a sysadmin?
+for a mass audience
+makes Web Services real to you
+Tips are obvious; not innovative
+For a broad audience
+Cutting edge aura
+Straightforward to use
+Fighting spam
+Easier long term maintenance
+"Repair" is really "Replace"
+Suitable for new students
+Easy understanding
+Not just for .NET users
+definitive manual
+Sparse data
+Worthy update of the first edition
+Not really outdated at all
+A towering figure
+Outdated format
+Best read as individual chapters
+Scientists without calculus
+good coverage and code listings
+fully compile down to machine code
+for sysadmins
+the basics
+Many nuances explained
+Colour photos distinguish the book
+misguided
+For small merchant operations
+Dog EAT Dog! Woof! Woof!
+Natural progression from JSP/Servlets
+Nice cross referencing across languages
+Poorly written and overpriced
+No shortcuts
+Very suitable for newcomers
+Ambitious views
+Social networking on IRC?!
+Massive set of abilities
+Like Microsoft's Office suite
+Helps outsiders understand
+Useful and quick lookups
+do more with PDF
+educated yourself in IDS
+Almost forgotten writer
+Parallels to our time?
+Not quite Marxists
+Brief summary
+Viable for commercial projects
+Customise the UI
+At last
+Try something other than Google
+Well suited for sysadmins
+Uneven quality
+Reduces the burden
+many drawbacks
+formulaic like Michener
+Massive expansion
+old school retro flavour
+Sweeping survey
+Impressive catch up
+Very wide breadth of topics
+easy explanations of major ideas
+UI with complex SQL data
+Many essays
+Broad appeal
+Nice introduction, for a general audience
+documents a subculture
+Objective assessments
+Several audiences
+361 FAQs!
+a review of the 3RD EDITION 2006
+Stretching exercises
+Top down and bottoms up views
+Lucid, for the non-economist
+Could have been a larger text
+An Indian view
+Has advantages over linux
+Compare to current affairs
+Focuses on the 1960s
+A full solution
+Clarifies licensing issues
+Suffering can depend on many factors
+Incurable inflation?
+Simple descriptions
+New ideas
+Talks about free trade agreements
+Dated analysis
+nice and straightforward
+finding similar structures
+Less hierarchy seems more favourable
+Distinctive case studies
+A recent phenomenon
+Automating build and unit testing
+For alumni
+Drag and drop development
+Graduate level solid state physics
+A darker vision than Nantucket
+From a chemical viewpoint
+Inspiring
+An appreciation of chemistry
+Sophisticated compositions
+comprehensive
+easy making of audio CDs
+more powerful searching
+Explains key ideas
+relevant to current times
+get an early start
+covers a lot of ground
+authoritative reference
+Good to be wealthy
+Out of date
+better than AWT or Swing
+A bygone era
+The greatest agricultural state
+Still useful
+Nice re-examination
+try swt/jface
+Doing SOA in a Microsoft environment
+key essays on OO
+How to have a successful consortium
+Represents our Technological Civilisation
+An overdue translation
+Strictly for chemical engineering
+A surviving culture
+First book to use fuzzy logic in chemistry
+A valid new genre
+Diverse and rich artwork
+Good for newcomers to this technique
+a star's lifetime
+Massive influx
+The oldest novels?
+What about the Gettysburg Address?
+Object oriented and distributed computing framework
+A modern art form
+Gcc now handles key set of languages
+more than gender divides Chilean women
+suitable for a new user
+good analysis
+Any firm doing business in Europe should read this
+Spans many different groups
+Good survey of statistics in 1972
+Many virtues of Python
+If you're not an Idiot or a Dummy
+Recaps CCWI's struggles
+Emphasis on new features
+Not just gender factors
+Up to date coverage
+Some grim reading
+Build new p2p applications?
+Helps you with 10g
+Deeper appreciation of folk songs
+Comprehensive and authoritative
+A coherent approach to Network Security Monitoring
+Scientific applications focus
+Positive sum game
+Homebrew ambience
+one of the 1st books on WiMax !
+Globalisation and world poverty
+Good briefings on each country
+Lowered trade barriers
+Parrot ~ .NET ?!
+Many problems
+Use financial sources on the Internet
+Unsolved problem
+Funny spam?
+Wheaton writes for Everyman
+Overall well done
+Neat autogenerating code from UML diagrams
+Version 3 now has stronger ties to the Internet
+Move to Struts 1.1
+protecting a wireless net
+Good broad coverage of the field
+A course in analog electronics
+Secular sermons
+Expanded gender roles
+Problems still unsolved
+Good description of state of art in 2003
+single developer platform
+Good overview
+Distinct viewpoint
+Use for competitive analysis of dB2
+Cheap cotton means cheap clothing
+Learn about Korean society
+Looks promising
+Need to already have her poems
+Empty centuries
+Talented, under oppression
+Few written records from female workers
+Key figure in Liquid Crystals
+Not a typical academic autobiography
+Outdated
+Easy to understand
+Easy to try out
+An Australian view
+Limited advice, mostly for end users
+A rich history
+All men are fallen
+Very broad span
+More roles for women
+Check out the chapter on camera phones
+How women gained power
+Women in graduate programs?
+Good teacher's aid
+Good background on the militaries
+One of Canada's greatest poets
+Informal but influential roles
+Progressive trends
+Difficult to follow
+new version of apache
+Useful to chemists and physicists
+Ironic
+Practical and easy
+Practical uses outside physics research
+Marginalised
+Prescient analysis
+Needs an index
+NO simple answers
+Very candid
+Should mention email and browsers more prominently
+Natives in Academia
+Many obstacles
+A practical quick introduction
+Grim conditions
+A different time
+Urban tribe
+Echoes current US offshoring trends
+Science and logic
+ingenious
+How to publish XML
+Much nicer way to get at MS Office data
+For grad student theorists
+You must do the problems
+Very elegant new approach
+A ready made computational lab - all your own
+A lot happens on a surface
+enjoyable read
+A good, updated look at Australian society
+Very nuanced reasoning
+Design AND implementation
+Comprehensive and voluminous
+Family planning with a racist tinge
+use 2021 computers in Manhattan Project
+A lot more to dB2 than just standard SQL
+intriguing potential
+Sadly, too relevant!
+A full treatment of an e-commerce application
+Improvements and what to use them for
+Optics and electronics on 1 chip?
+Quite speculative
+For grad student experimentalists
+A partial understanding
+Summarises the field well
+Band structure engineering
+Substantial detailed information
+Great survey
+Many diverse applications
+Competent job as an intro graduate text
+For space manufacturing
+nice physical effects
+Extensive coverage without needing deep background
+European efforts predominating
+Spanning all of science
+How good a hacker are you?
+good selection of events
+Concise coverage
+need strong background in stats
+well argued, good examples
+Gleanings from the Ice Age Man
+A lovely story
+Classical Mechanics still has some life left
+Try this and &quot;Testbenches&quot;
+keep up with physics
+Visually pleasing
+Bootstrap your fluency in C#
+Navier-Stokes rules!
+it must work
+Multiple marginalisations
+relive the gilded age
+still have discrimination
+Obscure but useful abilities of Google
+read carefully
+struggle against blackhats continues
+A Rare Glimpse into a Woman's Life
+Neat analysis
+Better simulations
+Potlatches banned?!
+Excellent combination of books
+Fight antipatterns
+Try rummaging thru the hacks
+Finally - Very Updated!
+Sophisticated analysis of major SF works
+Sheffield's earliest works
+Worth a read
+An nice reissue
+deeper appreciation
+So much for free
+valid for several years
+Lucid and nontechnical
+Still germane
+Main ideas in computing
+Easy to use, but be wary of MySQL
+Promising articles
+Needs an update
+How to use the Web
+queen in Europe
+Nice summary of a huge field
+Good for both XML and Web Services
+Internet seems to enable more involvement
+important ideas
+Migrate to this?
+Updating a classic text
+easy to use => linux
+Some (questionable) metrics
+Very applicable, still
+Ages quickly
+Nice way to upgrade java job skills
+Emphasis is not on Java per se
+Interesting depiction of rural Wisconsin
+Non-trivial subject
+No WarChalking!
+The Gist of J2EE 1.4
+Poorly edited
+The latest WiFi scene
+objective, vendor neutral
+powerful IDE
+clear description
+Nice coverage of XQuery/XPath
+More integrated usability design
+not bad,  but should also discuss limitations
+Greatly expands the standard documentation
+Perhaps best for software and small hardware projects
+Linux + Wireless = A Viable Approach
+A bunch of technologies
+An Enduring Book
+Cool Fedora
+improves viability of java games
+Fills a gap in the market
+Useful techniques
+little studied till now
+For Graduate level audience
+Documents the rise of Route 128
+How about a CD?
+Many practical examples
+One of Britain's Greatest Scientists
+verbose
+Field still incomplete
+Gives Russian mathematicians their due
+Remember Darwin's Bulldog
+Use an XML feed or an SDK
+Automated Test Agents
+Rapid development cycles using user stories
+Diverse selection of top scientists
+Still no breakthroughs
+A century of work on this problem
+Editors should also issue a CD
+More responsive tertiary education [perhaps]
+you should not need this book
+Needs An Update to End the Century
+easily accessible information
+Puts the Internet first
+good explanations
+Skimpy
+RFID Smart Cards may be HUGE
+Still relevant
+Some companies may want to move in this direction
+have large data sets?
+an alternate history
+GIS to enable a mobile Web
+Go beyond any search engine
+Many examples of how to use spiders
+Systematically understanding network access
+Makes a Mac Attractive
+Human Ingenuity (Spy vs. Spy)
+Novel way to teach a younger crowd
+Making Java Viable in Corporate Computing
+Hard core hacking
+Still Good
+Fully supports the latest JMS versions
+Nice new functionality
+For the Hard Core Gamers
+Excellent coverage of p2p
+A Disturbing, Subversive Book
+Comprehensive Description, but too Heavyweight?
+A Glittering Future
+Key text searching programs
+Need to know Assembly
+Vast New Applications
+Good description of how to use WebSphere and J2EE
+Geography and the Web
+Tries to see the future
+For the new sysadmin
+Try Scripting Web Applications
+Good refresher of C++
+Easy reading
+Not a light read
+future shock?
+Excellent Problem Sets
+Compare this to Los Alamos
+A Barely Remembered Scientist
+Good explanation of RDB
+Great papers
+How Far Speech Recognition Has Come
+A p2p network that is not controversial?
+Inevitable growth
+much more growth
+Another Bygone Time
+there will be a need for this research
+Could be a Classic
+Many Diverse Applications
+Strongly growing field
+Gleanings from the bones of scientific history
+Revisit the fun you had!
+A Glimpse of the Technological Future
+Make More Powerful Computer Algebra?
+Over 130 Hacks!
+Funky and cool
+Use XML and cryptography under .NET
+How about looking it up on the web?
+How to write and maintain large Fortran code
+More than just Gaussians
+Very Timely Now
+Cheaper devices?
+Good background on current affairs
+Interesting potential
+How about a CD version?
+Vast commercial potential in this field
+Another Worry From Another Time
+Definitive and authoritative
+A Good Reference, Rather than a Text
+Can Engineers Write (Well)?
+Lots of Problems for Students to Work On
+Much that a Practising Engineer Can Use
+Do Engineers Need Java?
+Good Complement to Statistics Texts
+How About A CD With XML Formatted Data?
+Still Have Gender Differences
+Moves Chaos Into Engineering
+Very Practical Approach
+Analytic solutions are still preferable
+Indispensable for Researchers in this Field
+Historic Papers
+A Historic Tome, But VERY Overpriced
+Use Your Computer
+Huge Potential
+Makes his Unpublished Letters Available
+Gives the Impression of a Mature Field
+Applied to Mars Rovers?
+Good text for an undergrad class
+Using XML to hook to new applications?
+The Only Serious Contender to Sendmail
+An Updated Second Edition
+Defines Metadata Well
+Automatic Speech Recognition in 1999
+Controlling a Chaotic System
+compare this to Heinlein's "Farnham's Freehold"
+Don't Buy This; Wait for the 9th Edition in CD
+Not State of the Art
+1992 = Pre Web, But Still Useful
+Still a Standard Text
+Keeps Physicists Busy
+Can Computers Still Improve?
+You Don't Need a Math Degree to Understand this
+Represents Our Technological Civilisation
+look at the facial methods
+Quick coverage of condensed matter
+Increasingly Powerful Simulations
+Glimpses of yesterday
+Can Democracy Incite Violence?
+An Insight into President Kim's Views
+A Much Easier Way to Handle Sendmail
+Spectroscopy made easy
+Apply Twistor theory in &gt; 4 dimensions?
+A Deeper Understanding
+Traditional -&gt; Modern, not just for Jewish Women
+Still timely
+Very relevant
+The basis of cryptography
+A Small, Complicated Country
+Fantasy and high technology
+Topical ideas
+A Key Ethnic Group of Cameroon
+A Rich Precolonial History
+Interesting Commingling of Languages
+learn graphics
+Not flashy, but has the essentials
+Nice Vendor-Neutral Description
+Merging SQL Server and XML under .NET
+Much more than a Browser
+Useful for SCA members
+Levels the Playing Field
+Nowhere to go?
+Namespaces are the key concept
+Some interesting ideas, perhaps
+Tries to Decouple C++ from Specific OS details
+Another complicated world
+The Big Picture of Eclipse
+compare to Bellamy
+Is this all?
+More Useful Today!
+Piognant scenes
+A Surprising Classic
+negative pressure, not positive pressure
+Indeed comprehensive
+Complex optimisations
+For Serious Developers
+Very action oriented
+A Good Set of Case Studies
+Emphasis of J2ME is shifting to the server
+A light read
+look at the cover
+use Generics in 2.0
+All You Need
+A Nifty Naval Tactic
+Hits All the Main Issues
+Did you know EJBs are funny?
+A Period Piece that was totally wrong
+Less regulation =&gt; more growth
+Totally in the style of his earlier books
+A Grand Stirring Saga for a Backdrop
+For the tinkerer in you
+Mostly independent of .NET
+A Nice Memory Aid
+Nicely Up To Date on a Vital Issue
+Key IBM Innovation!
+JDO has matured in one year
+Important - Describes CERT CC
+A Refactoring of HTML into XML
+Good Assessment of EJB Scaling Limitations
+Describes a Very Mature Language
+An Open, Extensible Tivo For the Tinkerer
+A Necessary Travail
+Not Bad, But Omits Important Tips
+J2EE should look in its rear view mirror
+Upgrade to MIDP 2 and CLDC 1.1
+The Full Monty for server side development
+You can access a PL/SQL executable with this book
+A Maturing and More Sophisticated XML
+Significant Productivity Gains
+All the Languages of Man
+Stable and mature
+Can't get around?
+War in Korea?
+Interested in Web Services?
+Echos of Imperialism
+Talks about "failed states"
+Voluminous and comprehensive
+Another world of diversity
+Still persistent discrimination
+Easy coding
+Is there hope?
+The Urge to Belong
+The Golden Age of text
+Enduring tensions
+Labour recovered
+More Proliferation?
+The Game is Not Over
+A Different Take on Welfare Mothers
+Getting the Vote
+How do they differ?
+Ideal for the serious developer
+start of the Wars
+Don't use Oracle 7!
+Clear and simple to use
+A good sequel to Fowler's "Refactoring"
+Managers AND programmers should consider this
+Understandable and concise
+It is simple to program PDAs
+Waited 19 years for this?!
+Program like it is 1985!
+A Concise, Quick Transition to Java
+As Easy As Learning HTML
+This is 7 books on Java
+Good independent assessment of MS WS2003
+Harder than HTML
+Precisely what we needed
+Unusual demand
+Excellent for nontechnical users
+promising ?
+An update of Eckel's classic text
+Take the Next Step with Java Server Pages
+Very balanced treatment of C# and Java
+lucid
+Read and speculate
+California Dreaming
+Tells HOW to use/implement InfiniBand but not WHY
+Good, well described ideas
+At last! Something for overworked sysadmins
+Good historical fiction; a bit thin on the science fiction
+Fascinating details
+a new play !
+uneven quality
+A very Naughties Los Angeles tale
+Promising, perhaps?!
+Attractively lucid and comprehensive
+Need Help Writing Your Own Schemas? Try this.
+Good vendor-neutral analysis
+Comprehensive but somewhat redundant
+Greatly eases Jini development
+A Good Evocation of 19th Century New York
+Authoritative and Comprehensive
+The Best Algorithm Books in Computer Science
+One of the Best Military SF Series Ever
+David Weber, please write the sequel!
+Credible Asian characters
+A Clear Exposition on Building Applications on top of XML
+Feels like Rudyard Kipling
+A post dot com high tech plot
+This book is worth your attention
+it plods
+The book is worth a deeper reading
+Converting XML documents
+XML Topic Maps - the next level above XML?
+Implausible
+Disappointing
+XML and cryptography?
+Hyperlinks and the Semantic Web
+Good summary of networking circa 2002.
+Java Network Programming
+Network Computing Using JMS

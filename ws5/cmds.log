@@ -1,0 +1,7 @@
+    1  wget https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+    2  gunzip amazon_reviews_us_Books_v1_02.tsv.gz
+    3  awk -F '\t' '{print $2}' amazon_reviews_us_Books_v1_02.tsv | sort | uniq -c | sort -rn > customer_reviews.txt
+    4  head -n 200 customer_reviews.txt | awk '{print $2}' > top_customers.txt
+    5  mkdir CUSTOMERS
+    6  for customer_id in $(cat top_customers.txt); do awk -F '\t' -v id="$customer_id" '$2 == id {print $13 > "CUSTOMERS/"id".txt"}' amazon_reviews_us_Books_v1_02.tsv; done
+    7  history > cmds.log

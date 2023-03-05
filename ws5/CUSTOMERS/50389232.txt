@@ -1,0 +1,548 @@
+Nice walkthrough of programming and embedding in Office
+Programmers, please read!
+Could have been more practically focused
+Best TCP/IP book available
+Fast and practical
+Great gift for iPod Shuffle buyers
+Everything you want in a book this heavy
+Excellent physical architecture reference
+A brief, but solid introduction to VB 2005
+A classic revisited
+Good introduction to Samhain and Osiris
+Depends on what you like in a management book
+Excellent gift and travel companion
+Finally, a book on Boost
+75 fun and handy hacks
+Yet another Linux walkthrough
+Nice reference for buyers and sellers
+Excellent work on both C# and .NET
+Invaluable for sysadmins and users
+Excellent architectural overview of identity management
+Both a how-to and a reference
+Handy set of recipes for Exchange administrators
+Nice, but technical walkthrough
+Wider than just the web
+That much more than the MSDN?
+Fantastic book, a must read
+Excellent coverage of basic to advanced use
+Essential Python reference
+Fine for what it is
+Excellent resource for the open source developer
+Bound manual for Moodle
+Nice end-to-end coverage
+Nice update to a solid work
+Lots about the schema
+Short walkthrough of the basics
+Light dusting over Linux
+This is a good one
+This is a great one
+Much more material in this edition
+Handy for XSLT, not great on XPath
+A great resource for Word users
+Thorough, thoughtful and deep.
+Another Joel book, sweet. Or not.
+Good content but horrible production
+Surprisingly wide range
+Gutsy, well researched and written
+Pragmatic guide to Perl testing
+Thought provoking
+Great content, very deceptive title
+Everything you need to know about Log4J
+Java textbook with a new angle
+Properly paced introduction to Maven
+Innovative, insightful and inspirational
+Mapserv illustrated and in color
+Fun, informative and easy read
+Grab bag, but mostly Swing
+Quintupled in size
+JBoss run-through
+The astronomy book I was looking for
+Good introduction, no long-term reference value
+Going beneath the glossy exterior
+Handy quick reference
+All new second edition
+Grab bag of handy tips and tricks
+Advanced intro to OS X for unix users
+One hundred awesome tips and tricks
+Interesting collection of C# nuggets and wisdom
+Video tricks the intro books don't teach
+Advanced, but terse
+Well researched, illustrated and written
+Grab bag of advanced VB topics
+More practical advice from the pragmatic crew
+Comprehensive and thorough
+Super advanced
+Excellent range of advice for both VB and C#
+Everything you need to know about Subversion
+Short primer on relational theory
+Bad name, great book on the fundamentals
+Makes sense of the obscure land of SSH
+Brought forward to 2005
+Another excellent edition
+Far more practical than Practical RDF
+Invaluable resource for shell scripters
+Covers a lot of ground
+A master work on Windows security
+Impressive in it's detail
+Intermediate level, uneven coverage
+Experiments in 'enhanced computing'
+Not just about Apache security
+Valuable collection of studio tips
+300 or so helpful one page tips
+Not pro, just introductory
+Cursed by a bad name
+Excellent, well researched and written
+Still looking for great, but this is good
+Excellent walkthrough of ASP.NET fundamentals
+Exactly what it says it is
+Very high level
+Very deep and complete
+Excellent introduction to file system mechanics
+Loved the content, hate the form factor
+Practical but terse
+Not quite common knowledge
+Classic O'Reilly work on OS interop
+Solid introduction to ASP.NET programming with VB
+Comprehensive walkthrough
+Out of the ordinary census of international security
+Almost too beginning
+Solid iPhoto walkthrough
+Fascinating and in-depth
+Well organized and written
+Fast, light introduction with no perspective
+Needed, practical advice
+Great for developers
+Grains of truth in mountains of humor
+Nice coverage of the basics and some advanced stuff
+How big is the audience for this?
+Another magnificent piece of work
+Messy, even for an article book
+Hard core remoting code
+As good as it's going to get
+Finally, an opinion on hardware
+Excellent walkthrough of the basics
+Excellent technical and content coverage
+Best walkthrough of Lisp I've seen
+Surprisingly thorough and well written
+Quick recipe style solutions
+Nice walkthrough, no perspective
+Fantastic introduction to practical data modeling
+Sound introduction to Postgres
+Interesting resource for hardware hackers
+Shallow and dull
+Valuable insights and walkthroughs
+Deep into networking
+Comprehensive and well written
+Caffeinated introduction to Jakarta
+Interesting interviews with legendary engineers
+Best of the available batch in 2005
+Solid walkthrough of x86 assembler
+Outstanding selection of helpful hints
+Thorough and surprisingly in-depth
+Solid, but perhaps too broad
+Great, but definitely for geeks
+An improvement on a great original
+If only the title matched the content
+Astute observations in a thesis style
+Interesting, but talent required
+Brief but intense
+Informative but short
+Another architectural work on SOA
+All inclusive Windows XP walkthrough
+Ideal Excel walkthrough
+Well organized set of useful hints and pointers
+Extremely deep and comprehensive
+Proper enterprise level respect for PHP5
+Fascinating and practical
+Needs more why and less how
+More detail on the classic emacs guide
+Thorough, good examples, screenshot heavy
+Screenshot heavy basics
+Grab bag of advanced topics
+Walkthroughs of the core APIs
+Brief, effective introduction to Latex
+Useful solutions to common Struts issues
+Fine intro to C++
+Deep and well written
+Interesting brain teasers for coders
+Nice introduction, a little code heavy
+Pragmatic, focused, detailed
+Well written, deep LaTeX walkthrough and reference
+Good, up-to-date starting point
+Amazing piece of work
+Clear, well organized, compelling
+Solid introduction to Lucene
+Short and sweet
+Good wheat, but lots of chaff
+Interesting new take on HT and people management
+Windows and web design basics for developers
+Good language introduction, uneven after that
+Thorough and well written
+Good for the tech, great for the management advice
+Solid introductory walkthrough
+Well written, balanced perspective
+Best practice exception handling design
+Interesting case study in TDD
+Good, but still basic
+Lots on Java, little about Linux
+Excellent book, fascinating topic
+Nice introduction through stored procedures
+Excellent C language introduction
+Java, UML and algorithms all in one
+How to build provably correct programs
+Dry but workable
+Well organized, and written introduction to reflection
+Grab bag of commonly used regular expressions
+Not a hacks book, interesting though
+Engaging and informative
+Step by step VS.NET extensions
+Comprehensive Tomcat, terse and code heavy
+Excellent Web QA resource
+Security policies and procedures
+Thorough, well written and illustrated, excellent
+Recipe oriented approach to CSS
+Engaging, fun and inspirational
+Useful hacks for amateur home theater
+Nice gift for Treo owners
+Light introduction to the hardware and OS
+Good XBOX related stocking stuffer
+Various useful Macintosh tidbits
+Great book for first time owners
+Bulky introductory walkthrough
+Very in-depth, but terse and code heavy
+Finally, somebody makes sense of threads
+Patterns oriented approach to testing
+Practical and helpful advice for Windows users
+Very in-depth
+How did this book get published?
+Solid introduction to basic, bad panorama coverage
+Reasonable introduction to HTML and CSS
+More about the how, less about the why
+Timeless computer science textbook on Security
+Excellent field guide for policy and technology
+Terse cookbook style overview of .NET Security
+In-depth and practical
+Informative and well organized
+Not much on PHP5, bad SQL
+Simple wireless security walkthrough
+Mainly about ad work
+Solid walkthroughs, could use more advice
+Short, but focused and informative
+Practical introduction to Eclipse
+It's mostly black and white
+Useful recipes and great ideas
+Focused walk through the essentials
+Short, fundamentals only, horrible examples
+Practical unit test theory and implementation
+Higher level than Effective C++
+Very in-depth
+Field guide to Eclipse 3.0
+General web services, little on finance specifics
+Classic techniques go digital
+Thorough walkthrough, no color and bad examples
+Only about bash and zsh
+Reasonable walkthrough, needs color and better examples
+Excellent JUnit examples
+For people who want to know why not just how
+Common sense advice for practical Java
+Practical advice on technology and art
+Not quite secrets
+Rocket ride into HTML
+Preview in person
+Solid introduction to web front-end programming
+Extreme browser customization
+Up-to-date complete reference
+Solid content, bad format
+Lots about Word, little about form
+Practical advice, especially on File Sharing
+Design for the rest of us
+Comprehensive, terse, guide to 2.0
+Surprisingly extensive in it's coverage
+Short, well illustrated walkthrough for beginners
+Very solid introduction
+Covers every conceivable computer game type
+Practical end-to-end walkthrough
+Best way to learn Design Patterns
+Introduction for beginners, has technical flaws
+Surprising front-end centric balance
+Excellent book on HLA
+Oracle Java apps step-by-step
+More end-to-end ASP.NET, less e-commerce
+Fantastic resource for X10
+Excellent strategies and wisdom for fighting the spam war
+In-depth API coverage
+More design than implementation
+Good introduction to a tricky application
+Basic PC Hardware Maintenance and Customization
+Unique and informative
+Common sense cleanups
+Serious technical info and process for game coders
+Solid and valuable, but terse in style
+No nonsense introduction and reference
+Comprehensive, up to date, but dry
+Guide for beginners through to advanced users
+Reasonable introduction, has technical problems
+In-depth look into the SQL Server core
+Not as much on WSE as you would expect
+Short articles on technology philosophy
+Excellent on some topics, unfocused overall
+Invaluable material on non-trivial SQL
+Not well written
+Terse ASP.NET security insights
+Step-by-step robot designs and programming
+Well illustrated, organized and informative
+Fun introduction to Python for programmers
+Terse, in-depth network application introduction
+Excellent resource guide for Astronomers
+Good introductory C# web book, bad title
+Short book for experts
+Worthy successor to the indispensable original
+The ultimate bad job book
+Step-by-step illustrated DIY for PCs
+Mac community love letter to itself
+Go for a hacker ride along
+Unique, sometimes extreme, hacks for iPods
+Build that CPU in your head
+Excellent physical and protocol layer network introduction
+Short introduction to all things malicious
+Barebones introduction to JUnit
+Clear cookbook for common ethical dilemmas
+Too much code, very little explanation
+More basics than design and optimization
+Mini-recipes for WSH
+Short, sweet, practical web service examples
+Invaluable architecture intro to network processor apps
+Learn digital photography with a cell phone
+Realistic outsourcing view from an engineer
+Legal and illegal file sharing information
+Not engaging like the Cuckoo's Egg
+Instructive in form and content
+Uneven, only for Dune addicts
+Insights into evaluating security risks
+Covers almost every major XML standard
+Cross platform syntax reference
+A niche book for Oracle internals experts
+Ideal gift for iPod lovers
+Good present for a new digital camera owner
+Short introduction for professionals
+Excellent book focused on SQL Server
+No other book on XSLT is as good
+Meanders a bit around the target
+Solid introduction to Plone
+Cookbook for the Windows Script Host
+Best book on SWT yet
+Unique and valuable resource
+Handy Perl reference for language
+Another great Yourdon book
+Brings practicality to Patterns
+Academic overview of the field
+Pragmatic advice for J2EE developers
+Excellent end-to-end introduction to portable .NET
+Straightforward architectural overview of Java Web Services
+Comprehensive introduction to SWT
+A pleasant surprise
+Wide ranging collection of hints
+Works best in conjunction with GoF Design Patterns
+Solid walkthrough of ASP.NET 2.0
+Interesting tips and tricks to learn from
+Step by step introduction to OS X development in Cocoa
+Well written and organized
+Geeky tweaks for OS X
+Great topic, reasonable book
+UML for software products, maybe lines too?
+Good survey, excellent NAnt reference
+How to make .NET database UIs that don't suck
+High level architectural business models for .NET
+Sweeping introduction to .NET
+Respect due to JSP
+Strong opinions, practical advice
+Good read for both bit-heads and architects
+Focused more on command line than on business apps
+Short, pragmatic guide to C network programming
+Everything you need to know about Velocity
+Best Mono book yet
+Unique reference on decompilers and obfuscators
+Fascinating uses for IRC
+Building Portals with the Java Portlet API
+Not quite secrets, but interesting anyway
+Step by step end-user guide
+Client and server on a range of protocols
+Every programmer should read this book
+Excellent work on network theory and implementation
+Thorough reference
+Deep coverage of advanced topics
+Practical introduction to WSE 2.0
+Perl from basics to objects
+Well written overview of WebObjects/Java
+In-depth on the end-user aspects of Visual Studio
+Teaching security through stories
+Not the best C++ introduction
+Well written guide to Notes with J2EE
+Complete overview to J2EE development with WebSphere
+Terse, complete walkthrough for O/R experts
+Specific to the new features of 1.5
+All you have to know about OpenOffice
+Valuable experience based information on threading
+Broad but not deep
+Coverage of C# specific to Mono
+Excellent algorithm text even for non-game developers
+Excellent resource for sellers
+One of the best Wi-Fi guides <br />One of the best Wi-Fi guides
+Absolute reference for a specific audience
+Serious hackers only need apply
+Fascinating perspective on the evolving face of media
+Not really a cookbook
+Short and focused, with unique practical content
+More general purpose, not XP specific
+Practical Mac maintenance information
+Hilarious unique content
+Excellent beginners step-by-step guide
+Reasonably deep, meant for intermediates
+Makes learning JSP fun
+Much more than just a missing manual
+Business analysis procedures for Open Source
+Brings more life to a dry subject
+Not sure who this book is for
+Terse walkthrough for OpenBSD admins
+Must have for CSS developers
+Step by step XML in Excel
+Reasonable starting point for the beginner
+Tips, tricks and pointers for web searchers
+Invaluable publishing resource, not just about PDF
+Fascinating introduction to RDF, OWL, Web Services
+Makes the uninteresting as interesting as it could be
+In depth, well written and impressive
+Tome that covers every possible aspect of Linux
+Solid guide to security for the systems administrator
+100 practical and unique recipes for BSD
+Great beginning, bad ending  <br />Great beginning, bad ending
+100 useful Flash tips and tricks
+End-user level introduction to Linux
+Serious Perl programmers only
+Good, though not O'Reilly standard
+Focused and informative
+Forward thinking, rooted in the past
+Focused, practical advice on MySQL
+Solid and focused resource for client and server networking
+A little bit of everything
+Introductory, not a Hacks book
+Valuable for the beginner
+Too high level to be useful
+Practical PHP, not just a language summary
+Ideal for the Windows Administrator
+Terse introduction, no reference material
+Tight language overview at the right depth
+Great start, bad finish
+Make the most of Google
+Tight and well organized
+Thorough end-user guide
+Excellent resource for end-users and developers
+Solid overview at the right level of depth
+Hefty, deep and well written
+Much better than the first version
+Not for the amateur
+Great book, well worth the price
+Who is the audience?
+Unique resource for experienced access users
+Well written, researched and titled
+New perspective on the realities of software development
+Ideal for the security technician
+Written for systems architects
+Should be required reading for Java programmers
+Good book for hackers and enthusiasts
+Not for amatuers
+Finally, an O'Reily quality digital photography editing book
+Fantastic resource for J2EE developers
+101 handy little scripts for unix geeks
+Basic photoshop use from end to end
+Solid end-user based introduction to WiFi and Bluetooth
+Everything for the iPod enthusiast
+Fine resource
+Pleasantly surprised
+Valuable reference work
+I love this book
+Good XML code and application examples in PHP
+Save yourself some C++ pain
+Best book on Vim
+Tutorial with lots of screenshots
+Software Craftsmanship : The New Imperative
+Fine overview, not the best code
+Valuable resource in a convenient form
+Surprisingly advanced
+Surprisingly light on the Windows
+Wow!
+Great book, ignore the 2.0
+Excellent introduction, solid examples
+Good on tech, not much expository information
+Just what I wanted
+Broad, not deep
+Linux Fundamentals
+Great source of ideas, techniques and technologies
+Lots of great ideas
+Templatized Design Patterns in C++
+Good introduction, needs more recipes
+Design Patterns at the implementation level for J2EE, .NET
+Excellent C++ and general programming introduction
+Lots of how to break, not a lot of how to fix
+Excellent followup to volume one
+Novel and effective tutorial in solid Perl Programming
+Critical J2EE work, but not a general pattern book
+Good for XQuery side topics
+Solid introduction with a light reference section
+Excellent reference, and a good introduction to ADO
+Good introduction, a little diffuse
+Needs more about applications and validation
+Modeling patterns worth the price alone
+Showing it's age
+Fills it's niche
+For serious buyers and sellers only
+Fun C++ games
+Excellent content, well written and edited
+Introduction for those who want to use the OS X Terminal
+Not so practical
+Excellent for the serious Amazon user
+Wireless Hacks is better
+Most accessible of O'Reilly's OS X books
+For the serious wireless freak
+Some jewels and a lot of fluff
+Excellent language introduction and reference
+O'Reilly at it's best
+Excellent language introduction and reference
+Good book and a fascinating topic
+Great technology how-to, but not a cookbook
+Short but thorough
+Critically necessary work
+Good overview for architects
+Well written introduction and thorough coverage of AspectJ
+Tight, well argued work
+Good book, but just on the front end, and no analysis
+Short, but good, introductory book
+Thorough and concise work on JUnit
+Good, but could use more even level of detail
+Fine book on model driven generation for .NET
+Solid introductory work to Qt
+Good, but not great
+Unique resource, with issues
+Best book on HTML front-end work
+Best book on Ruby
+Best and Only Book on EMF
+Not for the beginner
+Best Javascript Book
+Great work, but not a reference
+How to be a real programmer and engineer
+Concise and clear
+Excellent XSLT tutorial and reference
+Tough read
+Best way to learn references
+An advanced work on Code Generation
+Down to earth advice
+Best Perl book
+Invaluable Regex Insights
+A fantastic resource for Perl programmers
+Fine reference but covered in other books
+Excellent introduction to Perl
+A handy reference, but...
+Solid reference work
+Great book for people who know XSLT
+Unique and innovative read
+Reasonable technical advice, poor code
