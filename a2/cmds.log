@@ -1,0 +1,8 @@
+Script started on 2023-03-13 01:21:47-04:00
+bash-4.4$ awk -F'\t' '{if($6!="")print $6}' downloaded_tweets_extend_original_nolf2.tsv | sort | uniq -c | sort -nr | headd -10 > top_10_repliers.txt
+bash-4.4$ awk -F'\t' '{if($6!="")print $2}' downloaded_tweets_extend_original_nolf2.tsv | sort | uniq -c | sort -nr | headd -10 > top_10_reply_targets.txt
+bash-4.4$ fgrep 'type=retweeted' downloaded_tweets_extend_nolf2.tsv | awk -F'\t' '{if($8!="")print $8}' | sort | uniq -c || sort -nr | head -10 > top_10_retweeters.txt
+bash-4.4$ awk -F '\t' '{for(i=1;i<=NF;i++)if($i~/^#/) print tolower($i)}' downloaded_tweets_extend_nolf2.tsv | sort | uniq -c | sort -rn | head -n 30 > hashtags_top30.txt
+bash-4.4$ exit
+
+Script done on 2023-03-13 01:22:31-04:00
