@@ -1,0 +1,6 @@
+    1  awk -F "\t" '$2!="NULL" {print $2" "$6}' downloaded_tweets_extend_nolf2.tsv > task1.txt
+    2  awk '{a[$1]++} END{for(i in a) if(a[i]>=3) print i}' task1.txt > task2.txt
+    3  awk '{print $2}' task1.txt | sort | uniq -c | awk '{print $1}' | sort -n | uniq -c > hist.txt
+    4  gnuplot -e "set term svg size 800,600; set output 'h1.svg'; set xlabel 'Number of Replies'; set ylabel 'Number of Users'; plot 'hist.txt' using 2:1 with boxes"
+    5  gnuplot -e "set term svg size 800,600; set output 'h4.svg'; set xlabel 'Number of Replies'; set ylabel 'Number of Users'; set xrange [0:]; set boxwidth 3; plot 'hist.txt' using 2:1 with boxes"
+    6  history > cmds.log
