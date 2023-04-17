@@ -1,0 +1,3 @@
+X = 50
+3105521 amazon_reviews_us_Books_v1_02.tsv
+1552760 sampled
