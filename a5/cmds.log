@@ -5,6 +5,5 @@
     5  cut -d, -f5 us-counties.csv | sort -n | awk 'NR==1{print "min:",$1} END{print "max:",$1}'
     6  cut -d, -f6 us-counties.csv | sort -n | awk 'NR==1{print "min:",$1} END{print "max:",$1}'
     7  tail -n +2 us-counties.csv | cut -d ',' -f 2,5,6 | awk -F ',' '{print $2 " " $3}' | gnuplot -e "set title 'COVID-19 Cases vs Deaths'; set xlabel 'Number of Cases'; set ylabel 'Number of Deaths'; plot '-' with points title 'Counties'"
-    8  cut -d, -f2,5 us-counties.csv | sort -t, -k2rn | head -n 11 | tail -n 10 | awk -F, '{print $1" "$2}' > top_counties.csv
-    9  gnuplot -p -e "set style histogram cluster gap 1; set boxwidth 0.9; set xlabel 'Number of Cases'; set ylabel 'County'; set xtics rotate by -45; set title 'Top 10 Counties with the Highest Number of Cases'; plot 'top_counties.csv' using 2:xtic(1) with boxes"
-   10  history > cmds.log
+    8  tail -n +2 us-counties.csv | cut -d ',' -f 2,5 | sort -t ',' -k2 -nr | head -n 10 | awk -F ',' '{print $1 " " $2}' | gnuplot -e "set title 'Top 10 Counties with the Highest Number of Cases'; set ylabel 'Number of Cases'; set style data histogram; set style fill solid; plot 'top10counties.csv' using 2:xtic(1)"
+    9  history > cmds.log
